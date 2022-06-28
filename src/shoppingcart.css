@@ -1,0 +1,14 @@
+@media screen and (max-width: 800px) {
+  #productid {
+    text-align: center;
+  }
+  #productidbtn {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+  #productidhr {
+    margin-top: 0px;
+  }
+}
